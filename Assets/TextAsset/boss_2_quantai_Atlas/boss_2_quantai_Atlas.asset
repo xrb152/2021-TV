@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: boss_2_quantai_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 7ed4c6dc3c03a8c41979321f3d4dda58, type: 3}
+  materials:
+  - {fileID: 2100000, guid: d94ea6dcde5bcd643b1f313b95fd68ec, type: 2}
+  - {fileID: 2100000, guid: 2cbc1378ead1c4a409a8d38cee951efd, type: 2}

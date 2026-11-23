@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/0_CityDefense/Scenes/Loading.unity
+    guid: fa176cd6f8642af4e8d69748137ea236
+  - enabled: 1
+    path: Assets/0_CityDefense/Scenes/Lobby.unity
+    guid: 5526e63228f6e294cb388e2a89aa2991
+  - enabled: 1
+    path: Assets/0_CityDefense/Scenes/MainGame.unity
+    guid: 917e8f7705351d848a5d513300342330
+  m_configObjects: {}
